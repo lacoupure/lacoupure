@@ -1,0 +1,60 @@
+@font-face {
+    font-family: 'GiddyupWebPro';
+    src: url('GiddyupWebPro.eot');
+    src: url('GiddyupWebPro.eot?#iefix') format('embedded-opentype'),
+        url('GiddyupWebPro.woff2') format('woff2'),
+        url('GiddyupWebPro.woff') format('woff'),
+        url('GiddyupWebPro.ttf') format('truetype'),
+        url('GiddyupWebPro.svg#GiddyupWebPro') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'OPTIKorinna-Agency';
+    src: url('OPTIKorinna-Agency.eot');
+    src: url('OPTIKorinna-Agency.eot?#iefix') format('embedded-opentype'),
+        url('OPTIKorinna-Agency.woff2') format('woff2'),
+        url('OPTIKorinna-Agency.woff') format('woff'),
+        url('OPTIKorinna-Agency.ttf') format('truetype'),
+        url('OPTIKorinna-Agency.svg#OPTIKorinna-Agency') format('svg');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Compagnon';
+    src: url('Compagnon-LightItalic.eot');
+    src: url('Compagnon-LightItalic.eot?#iefix') format('embedded-opentype'),
+        url('Compagnon-LightItalic.woff2') format('woff2'),
+        url('Compagnon-LightItalic.woff') format('woff'),
+        url('Compagnon-LightItalic.ttf') format('truetype'),
+        url('Compagnon-LightItalic.svg#Compagnon-LightItalic') format('svg');
+    font-weight: 300;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'OPTIAjax';
+    src: url('OPTIAjax.eot');
+    src: url('OPTIAjax.eot?#iefix') format('embedded-opentype'),
+        url('OPTIAjax.woff2') format('woff2'),
+        url('OPTIAjax.woff') format('woff'),
+        url('OPTIAjax.ttf') format('truetype'),
+        url('OPTIAjax.svg#OPTIAjax') format('svg');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'OPTIRoyal';
+    src: url('OPTIRoyal.eot');
+    src: url('OPTIRoyal.eot?#iefix') format('embedded-opentype'),
+        url('OPTIRoyal.woff2') format('woff2'),
+        url('OPTIRoyal.woff') format('woff'),
+        url('OPTIRoyal.ttf') format('truetype'),
+        url('OPTIRoyal.svg#OPTIRoyal') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
